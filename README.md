@@ -1,2 +1,2 @@
-# Minecraft-username-checker
-a proxyless minecraft username checker made in batch
+# Minecraft Username Checker (.bat)
+a proxyless minecraft username checker made in batch - mogaly
